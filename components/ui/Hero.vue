@@ -7,7 +7,7 @@ section
 
 <style lang="stylus" scoped>
 section
-  padding-top 64px
+  padding-top 1px
   text-align center
 
   .text-h2
